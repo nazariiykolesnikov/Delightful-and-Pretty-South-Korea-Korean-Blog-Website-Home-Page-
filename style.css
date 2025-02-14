@@ -525,15 +525,15 @@ a:hover {
     }
 
     .container .sidebar .box .about h3 {
-        font-size: 1.3rem;
+        font-size: .8rem;
     }
 
     .container .sidebar .box .about p {
-        font-size: 1.1rem;
+        font-size: .8rem;
     }
 
     .container .sidebar .box .p-post a h3 {
-        font-size: 1.3rem;
+        font-size: .9rem;
     }
 
     .header .logo {
@@ -545,11 +545,11 @@ a:hover {
     }
 
     .container .sidebar .box .tags a {
-        font-size: 1.1rem;
+        font-size: 1rem;
     }
 
     .container .sidebar .box .title {
-        font-size: 1rem;
+        font-size: 1.05rem;
     }
 
     .container .posts-container .post .text {
@@ -557,7 +557,7 @@ a:hover {
     }
 
     .container .sidebar .box .category a {
-        font-size: 1.1rem;
+        font-size: 1.05rem;
     }
 
     .container .posts-container .post .image {
