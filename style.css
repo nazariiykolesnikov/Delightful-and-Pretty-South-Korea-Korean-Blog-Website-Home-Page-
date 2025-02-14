@@ -570,23 +570,19 @@ a:hover {
     }
 
     .container .sidebar .box .p-post a {
-        font-size: 2rem;
+        font-size: 1.4rem;
     }
 
     
     .container .sidebar .box .about h3 {
-        font-size: 2.3rem;
+        font-size: 1.4rem;
     }
 
     .container .sidebar .box .about p {
-        font-size: 2.4rem;
+        font-size: 1.3rem;
     }
     
     h3 {
-        font-size: 2.2rem;
-    }
-
-    .container .sidebar .box .p-post a:hover h3 {
         font-size: 2.2rem;
     }
 }
