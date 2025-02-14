@@ -515,10 +515,6 @@ a:hover {
         padding: 2rem;
     }
 
-    h3 {
-        font-size: 2.2rem;
-    }
-
     .container {
         grid-template-columns: 2fr 1fr;
     }
@@ -549,14 +545,6 @@ a:hover {
 
     .container .sidebar .box .title {
         font-size: 1rem;
-    }
-
-    .container .sidebar .box .about h3 {
-        font-size: 2.3rem;
-    }
-
-    .container .sidebar .box .about p {
-        font-size: 2.4rem;
     }
 
     .container .posts-container .post .text {
@@ -629,7 +617,22 @@ a:hover {
         flex-flow: column;
         text-align: center;
     }
+}
 
+@media (max-width: 450px) {
+    html {
+        font-size: 50%;
+    }
+
+    .contact form .inputBox input {
+        width: 100%;
+    }
+
+    .container .sidebar .box .p-post a {
+        font-size: 2rem;
+    }
+
+    
     .container .sidebar .box .about h3 {
         font-size: 2.3rem;
     }
@@ -640,15 +643,5 @@ a:hover {
     
     h3 {
         font-size: 2.2rem;
-    }
-}
-
-@media (max-width: 450px) {
-    html {
-        font-size: 50%;
-    }
-
-    .contact form .inputBox input {
-        width: 100%;
     }
 }
