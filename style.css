@@ -37,6 +37,10 @@ a:hover {
     color: var(--blue);
 }
 
+.text {
+    font-family: "Kurale", serif;
+}
+
 .btn {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     margin-top: 1rem;
@@ -513,10 +517,6 @@ a:hover {
 
     section {
         padding: 2rem;
-    }
-
-    .text {
-        font-family: "Kurale", serif;
     }
 
     .container {
