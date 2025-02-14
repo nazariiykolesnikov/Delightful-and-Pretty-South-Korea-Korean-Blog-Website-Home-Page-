@@ -629,6 +629,18 @@ a:hover {
         flex-flow: column;
         text-align: center;
     }
+
+    .container .sidebar .box .about h3 {
+        font-size: 2.3rem;
+    }
+
+    .container .sidebar .box .about p {
+        font-size: 2.4rem;
+    }
+    
+    h3 {
+        font-size: 2.2rem;
+    }
 }
 
 @media (max-width: 450px) {
