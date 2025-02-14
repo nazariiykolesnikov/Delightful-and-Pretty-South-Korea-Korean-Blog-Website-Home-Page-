@@ -515,6 +515,10 @@ a:hover {
         padding: 2rem;
     }
 
+    h3 {
+        font-size: 2.2rem;
+    }
+
     .container {
         grid-template-columns: 2fr 1fr;
     }
@@ -545,6 +549,14 @@ a:hover {
 
     .container .sidebar .box .title {
         font-size: 1rem;
+    }
+
+    .container .sidebar .box .about h3 {
+        font-size: 2.3rem;
+    }
+
+    .container .sidebar .box .about p {
+        font-size: 2.4rem;
     }
 
     .container .posts-container .post .text {
