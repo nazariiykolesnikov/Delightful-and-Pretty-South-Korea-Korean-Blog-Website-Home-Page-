@@ -563,6 +563,27 @@ a:hover {
     .credit {
         font-size: .6rem;
     }
+
+    .container .sidebar .box .p-post a {
+        font-size: 2rem;
+    }
+
+    
+    .container .sidebar .box .about h3 {
+        font-size: 2.3rem;
+    }
+
+    .container .sidebar .box .about p {
+        font-size: 2.4rem;
+    }
+    
+    h3 {
+        font-size: 2.2rem;
+    }
+
+    .container .sidebar .box .p-post a:hover h3 {
+        font-size: 2.2rem;
+    }
 }
 
 @media (max-width: 768px) {
@@ -626,22 +647,5 @@ a:hover {
 
     .contact form .inputBox input {
         width: 100%;
-    }
-
-    .container .sidebar .box .p-post a {
-        font-size: 2rem;
-    }
-
-    
-    .container .sidebar .box .about h3 {
-        font-size: 2.3rem;
-    }
-
-    .container .sidebar .box .about p {
-        font-size: 2.4rem;
-    }
-    
-    h3 {
-        font-size: 2.2rem;
     }
 }
